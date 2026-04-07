@@ -2,7 +2,7 @@
 
 Homebrew formula for Agentra CLI.
 
-Current version: `agentra v0.0.1`.
+Current version: `agentra v0.0.2`.
 
 ## Install
 
